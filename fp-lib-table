@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CR2032_Adapter")(type "KiCad")(uri "${KIPRJMOD}/CR2032_Adapter.pretty")(options "")(descr ""))
+)
